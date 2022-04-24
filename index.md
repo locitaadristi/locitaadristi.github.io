@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://colab.research.google.com/drive/1NJnqEpGFnjnbj17XUhubQs5LR7x3UVW1?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://https://colab.research.google.com/drive/1NJnqEpGFnjnbj17XUhubQs5LR7x3UVW1?usp=sharing/)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
